@@ -1,0 +1,8 @@
+{
+  "0": "OFF",
+  "1": "VENT",
+  "2": "HEAT ROOM",
+  "3": "HEAT CORRIDOR",
+  "4": "CUSTOM",
+  "5": "ERROR"
+}
